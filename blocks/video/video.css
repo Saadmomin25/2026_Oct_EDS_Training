@@ -1,0 +1,16 @@
+/* Video Block Styles */
+.video {
+  width: 100%;
+  max-width: 100%;
+}
+
+.video video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.video a {
+  display: block;
+  margin-bottom: 1rem;
+}
